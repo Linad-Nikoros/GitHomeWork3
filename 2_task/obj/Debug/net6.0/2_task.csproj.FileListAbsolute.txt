@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\bin\Debug\net6.0\2_task.exe
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\bin\Debug\net6.0\2_task.deps.json
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\bin\Debug\net6.0\2_task.runtimeconfig.json
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\bin\Debug\net6.0\2_task.dll
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\bin\Debug\net6.0\2_task.pdb
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\2_task.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\2_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\2_task.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\2_task.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\2_task.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\2_task.dll
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\refint\2_task.dll
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\2_task.pdb
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\2_task.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Рабочий стол\geekbrains\5 практичсеое\2_task\obj\Debug\net6.0\ref\2_task.dll
